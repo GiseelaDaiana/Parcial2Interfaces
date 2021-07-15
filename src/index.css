@@ -18,8 +18,8 @@ code {
   background-image: url("https://www.elcorreogallego.es/binrepository/900x563/0c29/900d506/none/102922340/WMDU/comics-marvel-1060x663_422-2397605_20201225203452.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  
-
+  height: 180px !important;
+  padding: 20px !important;
 }
 
 .titleCard{
@@ -41,5 +41,4 @@ code {
   margin: 0  !important;
   padding: 0 !important;
   height: 100vh;
- 
 }
